@@ -26,7 +26,7 @@ return [
     'asset_previous'        => 'Asset (Previously Assigned)',
     'asset_report'          => 'Asset Report',
     'asset_tag'				=> 'Asset Tag',
-    'asset_tag_placeholder' => 'Whatever the label says. It\'s not hostname! If it has no label, ONLY THEN it\'s serial number!',
+    'asset_tag_placeholder' => 'Whatever the label says. It\'s NOT hostname! If it has no label, ONLY THEN it\'s serial number!',
     'asset_tags'            => 'Asset Tags',
     'assets_available'		=> 'Assets available',
     'accept_assets'         => 'Accept Assets :name',
