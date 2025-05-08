@@ -409,6 +409,7 @@ return [
     'asset_information'     => 'Asset Information',
     'model_name'            => 'Model Name',
     'asset_name'            => 'Hostname',
+    'asset_name_placeholder' => 'This is hostname and hostname only, without the domain! If it has no hostname, leave it empty',
     'consumable_information' => 'Consumable Information:',
     'consumable_name'       => 'Consumable Name:',
     'accessory_information' => 'Accessory Information:',
